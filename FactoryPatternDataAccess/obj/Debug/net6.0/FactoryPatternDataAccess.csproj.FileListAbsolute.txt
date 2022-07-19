@@ -1,0 +1,15 @@
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.AssemblyInfoInputs.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.AssemblyInfo.cs
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\bin\Debug\net6.0\FactoryPatternDataAccess.exe
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\bin\Debug\net6.0\FactoryPatternDataAccess.deps.json
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\bin\Debug\net6.0\FactoryPatternDataAccess.runtimeconfig.json
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\bin\Debug\net6.0\FactoryPatternDataAccess.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\bin\Debug\net6.0\FactoryPatternDataAccess.pdb
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\refint\FactoryPatternDataAccess.dll
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.pdb
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\FactoryPatternDataAccess.genruntimeconfig.cache
+C:\Users\nancy\Desktop\repos\FactoryPatternDataAccess\FactoryPatternDataAccess\obj\Debug\net6.0\ref\FactoryPatternDataAccess.dll
